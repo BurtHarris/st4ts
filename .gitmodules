@@ -1,0 +1,4 @@
+[submodule "reference/stringtemplate4"]
+	path = reference/stringtemplate4
+	url = https://github.com/BurtHarris/stringtemplate4.git
+	branch = master
